@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    background-color:rgb(121, 121, 210);
+}
+div{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+canvas{
+    border-style:solid;
+    border-color:white;
+    background-color: black;
+}
+h1{
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: larger;
+    position:absolute;
+    right: 210px ;
+}
